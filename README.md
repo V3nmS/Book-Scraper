@@ -4,7 +4,7 @@
 
 Una CLI que recorre todo el catálogo de books.toscrape.com (sitio hehco para practicar spcraping, cero problemas legales) y entrega un archivo con título, precio, rating disponibilidad, categoría y URL de cada libro.
 
-# Cuándo está hecho:
+## Cuándo está hecho:
 
 - `pyhton scraper.py --output books.xlsx` books.xlsx saca los ~1000 libros recorriendo la paginación.
 - `--format csv|xlsx` y `--max-pages N` funcionan.
